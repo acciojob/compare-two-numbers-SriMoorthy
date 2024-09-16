@@ -3,9 +3,9 @@ let n1 = prompt('Enter the Number:')
 let n2 = prompt('Enter the Number:')
 
 if(n1==n2){
-	alert('true')
+	alert(true)
 }
 else {
-	alert('false')
+	alert(false)
 }
 
